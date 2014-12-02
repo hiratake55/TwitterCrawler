@@ -1,11 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Twitter Clawler
+# Twitter Crawler
 #  (C) Takekatsu Hiramura
 #
 # Usage:
-#  python clawl.py
+#  python crawlcrawl.py
 
 #  Python-twitter https://pypi.python.org/pypi/twitter
 
